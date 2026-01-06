@@ -23,6 +23,9 @@ Upload any video, interpolate frames, and download the smoother version with ori
 ## Side-by-Side Video Comparison
 Here's a simple side-by-side comparison of an original low-FPS clip (left) next to the interpolated smoother version (right), demonstrating the dramatic improvement in motion fluidity:
 
-![Side-by-side frame interpolation comparison](demo/demo.gif)
+<video controls width="600">
+  <source src="demo/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 (Example from a motion interpolation demo showing the "soap opera effect" in slow motion.)
